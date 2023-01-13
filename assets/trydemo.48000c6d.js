@@ -1,0 +1,1 @@
+const a={data(){return{demotitle:""}},methods:{changeDemo(e){const{type:t,val:s}=e;switch(t){case"title":this.demotitle=s||"";break;case"reset":this.resetItem&&this.resetItem();break}}}};export{a as t};
