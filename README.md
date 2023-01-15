@@ -1,2 +1,0 @@
-# site
-components ste
